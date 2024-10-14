@@ -16,15 +16,15 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
 
   List<Widget> myTabs = [
-    //donut tab 
+    //donut tab
     const MyTab(iconPath: 'lib/icons/donut.png'),
     //burger tab
     const MyTab(iconPath: 'lib/icons/burger.png'),
     //smoothie tab
     const MyTab(iconPath: 'lib/icons/smoothie.png'),
-    //pancake tab 
+    //pancake tab
     const MyTab(iconPath: 'lib/icons/pancakes.png'),
-    //pizza tab 
+    //pizza tab
     const MyTab(iconPath: 'lib/icons/pizza.png')
 
   ];
