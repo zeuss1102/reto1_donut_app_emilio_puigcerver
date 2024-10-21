@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:reto1_donut_app_emilio_puigcerver/utils/donut_tile.dart';
+import 'package:reto1_donut_app_emilio_puigcerver/utils/smoothie_tile.dart';
 
 class SmoothieTab extends StatelessWidget {
   // Lista de smoothies en venta

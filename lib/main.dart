@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 import 'package:reto1_donut_app_emilio_puigcerver/pages/home_page.dart';
+import 'package:reto1_donut_app_emilio_puigcerver/utils/cart.dart';
 
 void main() {
   runApp(
